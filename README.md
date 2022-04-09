@@ -1,2 +1,2 @@
 # HCI-JavaSctiptBiblioteke
-Treća laboratorijske vežba
+Treća laboratorijska vežba
